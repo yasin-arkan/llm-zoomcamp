@@ -1,0 +1,12 @@
+.venv
+.env
+faq.db
+*.db
+*.db-shm
+*.db-wal
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

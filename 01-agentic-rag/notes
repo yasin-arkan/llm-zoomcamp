@@ -1,0 +1,7 @@
+
+1-Make a call to LLM
+2-LLM invokes search('params')
+3-We invoke the search and get results
+4-Send the results back to the LLM (second call)
+5-LLM processes the results
+6-LLM gives an answer
